@@ -1,6 +1,6 @@
 <samp>
 &gt; Hi there, I'm 
-<a href="https://t.me/ayush0x10" target="_blank">Ayush</a>
+<a href="https://t.me/ayush0x10" target="_blank">ayush</a>
 <img src="https://media.tenor.com/gZ2OPWCBJrwAAAAj/cinnamoroll-cinnamoroll-sanrio-character.gif" width="25">
 </samp>
 
