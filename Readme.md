@@ -9,7 +9,7 @@ I’m a 14-year-old boy who learns quickly and uses every new skill to build too
 </h4>
 
 <img align="right" alt="GIF" 
-src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif" 
+src="https://ia600308.us.archive.org/21/items/gif_20260130/gif.gif" 
 height="250" />
 
 - 🔭 I’m currently working on [termux-desktop](https://github.com/ayush0x1/termux-desktop)
