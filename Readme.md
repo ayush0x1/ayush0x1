@@ -12,7 +12,7 @@ I’m a 14-year-old boy who learns quickly and uses every new skill to build too
 src="https://ia600308.us.archive.org/21/items/gif_20260130/gif.gif" 
 height="250" />
 
-- 🔭 I’m currently working on [termux-desktop](https://github.com/ayush0x1/termux-desktop)
+- 🔭 I’m currently working on [litecraft](https://github.com/ayush0x1/litecraft)
 
 - 🌱 I’m currently learning **Advanced Linux**
 
