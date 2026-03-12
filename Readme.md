@@ -30,33 +30,58 @@ Connect with me:
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png" alt="html5" width="40" height="40"/>
 </a>
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
-
-<a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
-
-<a href="https://ionicframework.com" target="_blank" rel="noreferrer">
-<img src="https://ionic.io/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fionicframeworkcom%2F66cfdbef-e59d-463a-8e24-12cb233e9d97_ionic%2Blogo%2Bblue.png&w=128&q=75" alt="ionic" width="40" height="40"/>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" alt="css3" width="40" height="40"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
+
+
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/TailwindCSS-Alt.svg" alt="javascript" width="40" height="60"/>
+</a>
+
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
+<img src="https://reactnative.dev/img/header_logo.svg" alt="javascript" width="40" height="40"/>
+</a>
+
+
+
+<a href="https://swiperjs.com/" target="_blank" rel="noreferrer">
+<img src="https://swiperjs.com/images/swiper-logo.svg" alt="javascript" width="40" height="40"/>
+</a>
+
+<a href="https://supabase.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/supabase.webp" alt="git" width="40" height="40"/>
+</a>
+
+
+<a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
+</a>
+
+<br />
+<br />
+
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+
+
+
+
+
 
 <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
 <img src="https://avatars.githubusercontent.com/u/6318500?s=48&v=4" alt="godot" width="40" height="40"/>
@@ -84,6 +109,4 @@ src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
 height="50" width="210" alt="ayush0x1"/>
 </a>
 </p>
-
 <br><br>
-
