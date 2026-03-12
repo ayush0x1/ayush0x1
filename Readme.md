@@ -27,7 +27,7 @@ Connect with me:
 <a href="mailto:ayush7code@gmail.com" target="_blank">Email</a>
 </h4>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">❤️ Languages Tools:</h3>
 
 <p align="left">
 
@@ -98,15 +98,11 @@ Connect with me:
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
-</p>
 
-<h3 align="left">❤️ Support:</h3>
-
-<p>
-<a href="https://www.buymeacoffee.com/ayush0x1">
-<img align="left" 
-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
-height="50" width="210" alt="ayush0x1"/>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/500px-Neovim-mark.svg.png" alt="python" width="40" height="40"/>
 </a>
 </p>
+
+
 <br><br>
