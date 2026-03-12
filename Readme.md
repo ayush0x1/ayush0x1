@@ -27,7 +27,7 @@ Connect with me:
 <a href="mailto:ayush7code@gmail.com" target="_blank">Email</a>
 </h4>
 
-<h3 align="left">❤️ Languages Tools:</h3>
+<h3 align="left">❤️ Languages and Tools:</h3>
 
 <p align="left">
 
