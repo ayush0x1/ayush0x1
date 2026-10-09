@@ -1,8 +1,8 @@
-![Top Doodle](https://raw.githubusercontent.com/CodingAce123/CodingAce123/refs/heads/master/files/top.png)
+
 <samp>
 &gt; Hi there, I'm 
 <a href="https://t.me/ayush0x10" target="_blank">ayush</a>
-<img src="https://media.tenor.com/gZ2OPWCBJrwAAAAj/cinnamoroll-cinnamoroll-sanrio-character.gif" width="25">
+
 </samp>
 
 <h4 align="left">
@@ -15,7 +15,8 @@ height="250" />
 
 - 🔭 I’m currently working on [litecraft](https://github.com/ayush0x1/litecraft)
 
-- 🌱 I’m currently learning **Advanced Linux**
+- 🌱 I’m currently learning <a href="https://nim-lang.org">nim lang</a>
+
 
 - ⚡ Fun fact: **It’s easy to build something hard to maintain.**
 
@@ -29,7 +30,7 @@ Connect with me:
 
 
 
-<img src="https://skills.syvixor.com/api/icons?i=html,tailwindcss,react,astro,supabase,electron&perline=12&radius=40" alt="i am in love" />
+<img src="https://skills.syvixor.com/api/icons?i=html,tailwindcss,react,astro,supabase,electron&perline=12&radius=40" alt="" />
 
 
 
@@ -37,7 +38,7 @@ Connect with me:
 
 <br />
 
-<img src="https://skills.syvixor.com/api/icons?i=nim,linux,python,pandas,godot&perline=12&radius=40" alt="i am in love" />
+<img src="https://skills.syvixor.com/api/icons?i=nim,linux,python,pandas,godot&perline=12&radius=40" alt="" />
 
 <br/>
 
