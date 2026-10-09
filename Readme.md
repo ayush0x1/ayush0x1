@@ -44,7 +44,7 @@ Connect with me:
 <img src="https://skills.syvixor.com/api/icons?i=parrotos,metasploit&perline=12&radius=40" alt="Skill Icons" />
 
 <br />
-
+<br><br>
 <samp>
 &gt; I know other languages and tools, but these are my favorites.
 
